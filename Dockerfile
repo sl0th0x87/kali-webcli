@@ -1,4 +1,4 @@
-FROM sl0th0x87/kali-basic:latest
+FROM sl0th0x87/kali-pentest:latest
 
 LABEL maintainer="sl0th0x87@gmail.com"
 LABEL description="Kali Linux with shellinabox"
